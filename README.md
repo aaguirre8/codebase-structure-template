@@ -1,1 +1,0 @@
-# codebase-structure-template
